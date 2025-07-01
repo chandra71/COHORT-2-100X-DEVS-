@@ -2,7 +2,7 @@
 
 
  100xDevs Cohort Journey
-
+ 
 Hey there! 👋  
 This repo is a collection of my learnings and progress as I go through the **100xDevs Cohort** by Harkirat singh. I'm learning full-stack web development and using this space to share my notes, code, and projects.  
 
