@@ -1,4 +1,4 @@
-# COHORT-3-100X-DEVS 
+# COHORT-3-100X-DEVS
 
 
  100xDevs Cohort Journey
